@@ -1,6 +1,4 @@
-#The Ch4T
-<hr/>
-<br/>
+# The-Ch4T
 
 <b>Purpose of this project</b>: This project is dedicated to the creation of a model of an electric locomotive ChS4T-600, which has been regularly serving on the Belarusian railway for 38 years.
 <p> What do we use: </p>
