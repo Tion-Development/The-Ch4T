@@ -9,6 +9,6 @@
   </ol>
   <li> Programming languages:
    <ol> 
-    <li> Python 3.9
+    <li> Python 3.7
    </ol
 </ul>
